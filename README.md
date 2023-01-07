@@ -65,9 +65,9 @@
 <br/>  
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Ming119&show_icons=true&count_private=true&hide_border=true" align="left" width="50%"/></div>    
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Ming119&show_icons=true&count_private=true&hide_border=true" align="left" width="49%"/></div>    
 
-<div align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ming119" align="right" width="50%"/></div>  
+<div align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ming119" align="right" width="49%"/></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ming119&hide_border=true&layout=compact" align="center"/></div>  
 
