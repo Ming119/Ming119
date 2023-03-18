@@ -7,7 +7,7 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ming119&column=7" alt="ming119" /></div>
 <br/>
 
-- 🔭 I’m currently working on [PR Tool](https://github.com/Ming119/PR_Tool) and [bingX connector python](https://github.com/Ming119/bingX-connector-python)  
+- 🔭 I’m currently working on [bingX connector python](https://github.com/Ming119/bingX-connector-python)  
   
 <br/>  
 
