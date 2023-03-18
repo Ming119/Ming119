@@ -8,7 +8,8 @@
 <br/>
 
 - 🔭 I’m currently working on [bingX connector python](https://github.com/Ming119/bingX-connector-python)  
-  
+- 💼 I was an intern at Sunbird Software
+
 <br/>  
 
 ## My Skill Set  
