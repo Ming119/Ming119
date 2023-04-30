@@ -7,8 +7,9 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ming119&column=7" alt="ming119" /></div>
 <br/>
 
-- 🔭 I’m currently working on [bingX connector python](https://github.com/Ming119/bingX-connector-python)  
 - 💼 I was an intern at Sunbird Software
+- 📚 I expect to graduate in June 2023.
+- 📚 I expect to enroll at NTU in September 2023.
 
 <br/>  
 
