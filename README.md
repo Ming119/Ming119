@@ -1,17 +1,13 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm 李浩銘(Ho-Ming Li)</h1>
-<h3 align="center">A NTUT student from Hong Kong</h3>
+  <h1 align="center">Hi 👋, I'm 李浩銘(Ho-Ming Li)</h1>
+  <h3 align="center">Studying Networking and Multimedia at National Taiwan University</h3>
+  <h3 align="center">Studied Computer Science & Information Engineering at National Taipei University of Technology</h3>
+  <h3 align="center">Former Testing Engineer at Sunbird Software</h3>
 </div>  
 
 <br/>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ming119&column=7" alt="ming119" /></div>
 <br/>
-
-- 💼 I was an intern at Sunbird Software
-- 📚 I expect to graduate in June 2023.
-- 📚 I expect to enroll at NTU in September 2023.
-
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
